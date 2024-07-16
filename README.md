@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-*   🌍  I'm based in Monterey,Ca
+*   🌍  I'm based in Los Angeles,CA
 *   🖥️  See my portfolio at [My Portfolio](http://github.com/alora1976)
 *   ✉️  You can contact me at [lori\_trindade@yahoo.com](mailto:lori_trindade@yahoo.com)
 *   🧠  I'm learning MERN
